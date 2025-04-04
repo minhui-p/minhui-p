@@ -35,7 +35,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username==minhui-p&show_icons=true&theme=vue&hide_border=true&title_color=6b7280&icon_color=A7F3D0" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhui-p&layout=compact&theme=vue&hide_border=true&title_color=6b7280" />
 </p>
 
